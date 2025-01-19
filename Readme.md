@@ -45,7 +45,7 @@ The backend uses **SQLx** to interact with a PostgreSQL database. The database c
 
 ## Running the Application
 
-To launch the application, simply navigate to the `frontend` directory and run the following command:
+To launch the application, navigate to the `frontend` directory and run the following command:
 
 ```bash
 npm start
