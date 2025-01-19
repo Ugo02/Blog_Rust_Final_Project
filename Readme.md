@@ -49,3 +49,5 @@ To launch the application, navigate to the `frontend` directory and run the foll
 
 ```bash
 npm start
+```
+I wrote a script in **`package.json`** to start the backend using cargo run when we run this command.
